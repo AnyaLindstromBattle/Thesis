@@ -4,6 +4,7 @@
 # The files in this repository are as follows:
 # - Functions.ipynb: Jupyter notebook containing functions used to analyze the model
 # - StreamlinedModel.ipynb: Jupyter notebook to build stoichiometric model of M. polymorpha metabolism 
+# - model in sbml format
 # - Supplementary File 6 Cannell et al Marchantia.xml: Model of M. polymorpha built by Cannell et al (2020) and used as a starting point in this project
 # - PHB_reactions.xlsx: Reactions to add to the model to allow for the production of PHB
 # - Supplementary File 4 Cannell et al Python functions.py : ADD SOME FUNCTIONS FROM THIS TO OTHER
