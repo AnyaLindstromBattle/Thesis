@@ -12,5 +12,6 @@
 # - ServerSamplingv3.ipynb: Jupyter notebook used for flux sampling
 # - Data from Corinna for constraints
 # - R code for convergence analysis
-# - The biomass composition and component stoichiometry in the biomass equation 
+# - The biomass composition and component stoichiometry in the biomass equation
+# - rxns added to marchantia model
 
