@@ -1,6 +1,6 @@
 # Thesis
 
-# This repository contains files required to run and analyze a stoichiometric model of Marchantia polymorpha modified for the production of polyhydroxybutyrate (PHB), as explained in the thesis of Anya Lindström Battle, Department of Biology, University of Oxofrd
+# This repository contains files required to run and analyze a stoichiometric model of Marchantia polymorpha modified for the production of polyhydroxybutyrate (PHB), as explained in the thesis of Anya Lindström Battle, Department of Biology, University of Oxford
 #The files in this repository are as follows:
 #- FinalFunctions.ipynb: Jupyter notebook containing functions used to analyze the model
 #- Marchantia_PHB_model.xml: Final model of M. polymoprha metabolism used in this project, in SBML format. 
