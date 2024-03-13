@@ -1,0 +1,9 @@
+Reaction_name,Reactant_1,Reactant_2,Reactant_3,Product_1,Product_2,Product_3,Reactant_1_Stoich,Reactant_2_Stoich,Reactant_3_Stoich,Product_1_Stoich,Product_2_Stoich,Product_3_Stoich,Lower_bound,Upper_bound,Notes
+Phb_A_c,ACETYL_COA_c,0,0,ACETOACETYL_COA_c,CO_A_c,0,-2,0,0,1,1,0,-1000,1000,Reversible
+Phb_A_p,ACETYL_COA_p,0,0,ACETOACETYL_COA_p,CO_A_p,0,-2,0,0,1,1,0,-1000,1000,Reversible
+Phb_B_c,ACETOACETYL_COA_c,NADPH_c,PROTON_c,CPD_650_c,NADP_c,0,-1,-1,-1,1,1,0,-1000,1000,Reversible
+Phb_B_p,ACETOACETYL_COA_p,NADPH_p,PROTON_p,CPD_650_c,NADP_p,0,-1,-1,-1,1,1,0,-1000,1000,Reversible
+Phb_C_c,CPD_650_c,0,0,POLY_HYDROXY_BUTYRATE_c,CO_A_c,0,-1,0,0,1,1,0,-1000,1000,Reversible - will it be different because it is a polymerization rxn?
+Phb_C_p,CPD_650_c,0,0,POLY_HYDROXY_BUTYRATE_p,CO_A_p,0,-1,0,0,1,1,0,-1000,1000,Reversible - will it be different because it is a polymerization rxn?
+NphT7_c,ACETYL_COA_c,MALONYL_COA_c,PROTON_c,ACETOACETYL_COA_c,CO_A_c,CARBON_DIOXIDE_c,-1,-1,-1,1,1,1,0,1000,
+NphT7_p,ACETYL_COA_p,MALONYL_COA_p,PROTON_p,ACETOACETYL_COA_p,CO_A_p,CARBON_DIOXIDE_p,-1,-1,-1,1,1,1,0,1000,
